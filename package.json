@@ -1,0 +1,12 @@
+{
+  "name": "cypress_automation_orangehrmdemosite",
+  "version": "1.0.0",
+  "description": "Cypress QA Automation for Orange HRM Demo Site",
+  "license": "ISC",
+  "author": "Thulakshina Perera",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
